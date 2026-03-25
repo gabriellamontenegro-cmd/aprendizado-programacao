@@ -1,5 +1,4 @@
-# aprendizado-programacao
-Repositório de estudos e evolução técnica em C++, com foco em aplicações para Física Médica e análise de dados laboratoriais
+
 # Jornada de Aprendizado e Desenvolvimento Técnico
 
 Este repositório documenta minha evolução em programação e análise de dados, focando na aplicação dessas ferramentas no contexto da Física Médica. Meu objetivo é demonstrar como utilizo a tecnologia para otimizar processos laboratoriais e análises estatísticas.
